@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Lita's Birthday Invitation</title>
+<title>Birthday Invitation</title>
 <style>
   @font-face {
     font-family: 'RobotoBold';
